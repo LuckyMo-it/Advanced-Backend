@@ -10,3 +10,8 @@
 - ORM is a technique that lets you interact with a database using the programming language's objects, instead of writing raw SQL queries.
 
 - It has migration capabilities you can change database to another database
+
+
+
+## DOCKER
+- First create file named `Dockerfile`
